@@ -318,4 +318,13 @@ html {
   #section-2-form {
     padding-left: 0px;
   }
+  #form {
+    gap: 12%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #section-2-form {
+    padding-right: 100px;
+  }
 }
