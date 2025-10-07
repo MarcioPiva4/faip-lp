@@ -313,3 +313,9 @@ html {
     padding: 0 8px;
   }
 }
+
+@media screen and (max-height: 900px) and (min-width: 1200px){
+  #section-2-form {
+    padding-left: 20px;
+  }
+}
