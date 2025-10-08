@@ -323,13 +323,14 @@ html {
     padding-left: 0px;
   }
   #form {
-    gap: 11%;
+    gap: 10%;
   }
 }
 
 @media screen and (min-width: 1280px) and (max-width: 1640px) {
   #section-2-form {
     padding-right: 100px;
+    padding-left: 15px;
   }
 
   #section-2-text {
@@ -343,13 +344,14 @@ html {
   }
 
   #section-2-form {
-    padding-left: 10px;
+    padding-left: 30px;
+    padding-right: 100px;
   }
 }
 
 @media screen and (min-width: 2010px) and (max-width: 2560px) {
   #section-2-form {
-    padding-left: 20px;
+    padding-left: 30px;
   }
 }
 
